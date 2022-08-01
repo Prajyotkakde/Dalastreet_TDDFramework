@@ -1,0 +1,10 @@
+2022-08-01 09:42:22,775 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-08-01 09:43:59,567 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: April02NeostoxIDProject:April02NeostoxIDProject:0.0.1-SNAPSHOT @ E:\Github_Dalastreet\April02DalalStreetProject (1)\April02DalalStreetProject\pom.xml.
+2022-08-01 09:44:18,072 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-01 09:44:18,074 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github_Dalastreet\April02DalalStreetProject (1)\April02DalalStreetProject\src\main\resources
+2022-08-01 09:44:18,091 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-01 09:44:18,092 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github_Dalastreet\April02DalalStreetProject (1)\April02DalalStreetProject\src\test\resources
+2022-08-01 09:44:37,085 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-01 09:44:37,183 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github_Dalastreet\April02DalalStreetProject (1)\April02DalalStreetProject\src\main\resources
+2022-08-01 09:44:37,210 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-01 09:44:37,212 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Github_Dalastreet\April02DalalStreetProject (1)\April02DalalStreetProject\src\test\resources

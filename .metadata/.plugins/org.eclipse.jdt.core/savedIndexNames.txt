@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+E:\Github_Dalastreet\Dalastreet_TDDFramework\.metadata\.plugins\org.eclipse.jdt.core
+1167275426.index
+2821983007.index
+686645814.index
+2834169729.index
+1504748277.index
+3961414876.index
+2280419481.index
