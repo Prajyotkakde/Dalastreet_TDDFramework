@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-20T09:12:40 IST" name="Suite" finished-at="2022-07-20T09:13:30 IST" duration-ms="50096">
+    <groups>
+    </groups>
+    <test started-at="2022-07-20T09:12:40 IST" name="Test" finished-at="2022-07-20T09:13:30 IST" duration-ms="50096">
+      <class name="com.qa.testLayer.TestCase1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testLayer.TestCase1@6c80d78a]" started-at="2022-07-20T09:12:40 IST" name="setUp" finished-at="2022-07-20T09:12:54 IST" duration-ms="13816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="buyShare1()[pri:0, instance:com.qa.testLayer.TestCase1@6c80d78a]" started-at="2022-07-20T09:12:54 IST" name="buyShare1" finished-at="2022-07-20T09:13:04 IST" duration-ms="10318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyShare1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testLayer.TestCase1@6c80d78a]" started-at="2022-07-20T09:13:04 IST" name="tearDown" finished-at="2022-07-20T09:13:05 IST" duration-ms="632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testLayer.TestCase1@6c80d78a]" started-at="2022-07-20T09:13:05 IST" name="setUp" finished-at="2022-07-20T09:13:19 IST" duration-ms="14325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="buyShare2()[pri:0, instance:com.qa.testLayer.TestCase1@6c80d78a]" started-at="2022-07-20T09:13:19 IST" name="buyShare2" finished-at="2022-07-20T09:13:29 IST" duration-ms="10265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyShare2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testLayer.TestCase1@6c80d78a]" started-at="2022-07-20T09:13:29 IST" name="tearDown" finished-at="2022-07-20T09:13:30 IST" duration-ms="692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testLayer.TestCase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
